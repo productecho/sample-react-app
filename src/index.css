@@ -4,7 +4,7 @@
   --text: #151a21;
   --muted: #586271;
   --border: #dde2e8;
-  --accent: #0f766e;
+  --accent: #1e40af;
   --on-accent: #ffffff;
   --ok: #15803d;
   --warn: #b45309;
@@ -21,8 +21,8 @@
     --text: #e6e9ee;
     --muted: #9aa4b2;
     --border: #2a313b;
-    --accent: #2dd4bf;
-    --on-accent: #06302c;
+    --accent: #93c5fd;
+    --on-accent: #0b1e3d;
     --ok: #4ade80;
     --warn: #fbbf24;
   }

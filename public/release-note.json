@@ -1,4 +1,4 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "note": "A plain file in public/. It is copied as it is, so its URL stays the same from one release to the next."
 }
